@@ -5,7 +5,7 @@
 Remember that portfolio we have created in the last checkpoint? Now is the time to give it some style. 
 
 
-###Instructions
+### Instructions
 
 1. Create a file `styles.css`.
 2. Link it to our HTML project.
